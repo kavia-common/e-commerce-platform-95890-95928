@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/e-commerce-platform-95890-95928/e_commerce_backend"
+}
